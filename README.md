@@ -1,3 +1,3 @@
 # HANA Wiki
 
-[HANA Wiki](https://github.com/robinfeng/hana_blog/wiki)
+[SAP HANA 学习笔记](https://github.com/robinfeng/hana_blog/wiki)
